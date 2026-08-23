@@ -6,6 +6,12 @@ https://nhk4.mov3.co/hls/nhk.m3u8
 #EXTINF:-1,NHKG-Backup
 https://naori-test.netgenx.site/pxx.php?shk_cid=gd01#.m3u8
 
+#EXTINF:-1,NHKG
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01&isp=5
+
+#EXTINF:-1,NHKE
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02&isp=5
+
 #EXTINF:-1,TBS
 https://naori-test.netgenx.site/pxx.php?shk_cid=gd04#.m3u8
 
@@ -15,5 +21,8 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=gd06#.m3u8
 #EXTINF:-1,WOWOW Cinema
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07&isp=5
 
-#EXTINF:-1,WOWOW Live
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1,Bloomberg
+https://bloomberg.com/media-manifest/streams/us.m3u8
+
+#EXTINF:-1,Reutes
+https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-rakutenuk/playlist.m3u8
