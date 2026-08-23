@@ -15,14 +15,32 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02&isp=5
 #EXTINF:-1,TBS
 https://naori-test.netgenx.site/pxx.php?shk_cid=gd04#.m3u8
 
+#EXTINF:-1,TBS News
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs11#.m3u8
+
 #EXTINF:-1,TV ASAHI
 https://naori-test.netgenx.site/pxx.php?shk_cid=gd06#.m3u8
 
 #EXTINF:-1,WOWOW Cinema
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07&isp=5
 
+#EXTINF:-1,MoviePlus
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs14#.m3u8
+
+#EXTINF:-1,HomeDrama
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs05#.m3u8
+
+#EXTINF:-1,FamilyGekijo
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs20#.m3u8
+
 #EXTINF:-1,Bloomberg
 https://bloomberg.com/media-manifest/streams/us.m3u8
+
+#EXTINF:-1,BBC America
+http://23.239.31.26:8989/bbcamerica/index.m3u8
+
+#EXTINF:-1,BBCJ
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs15#.m3u8
 
 #EXTINF:-1,Reutes
 https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-rakutenuk/playlist.m3u8
