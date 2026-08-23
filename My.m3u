@@ -1,7 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1,Channel One
+#EXTINF:-1,NHKG
 https://nhk4.mov3.co/hls/nhk.m3u8
 
-#EXTINF:-1,Channel Two
+#EXTINF:-1,NHKG-Backup
+https://naori-test.netgenx.site/pxx.php?shk_cid=gd01#.m3u8
+
+#EXTINF:-1,WOWOW
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07&isp=5
