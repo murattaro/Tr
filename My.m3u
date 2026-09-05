@@ -6,10 +6,10 @@
 https://naori-test.netgenx.site/pxx.php?shk_cid=gd01#.m3u8
 
 #EXTINF:-1 tvg-id="NHK東京・総合2_jp" tvg-name="NHK G (Sub Ch.)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_g_sub_ch.png",NHK G (Sub Ch.)
-https://naori-test.netgenx.site/pxx.php?shk_cid=gd02#.m3u8
+https://naori-test.netgenx.site/pxx.php?shk_cid=gd01#.m3u8
 
 #EXTINF:-1 tvg-id="NHK東京・教育_jp" tvg-name="NHK E" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_e.png",NHK E
-https://akariko-bck1.sankuria.sbs/stream/jp/nhk_e/stream-output.m3u8?mode=hls
+https://naori-test.netgenx.site/pxx.php?shk_cid=gd02#.m3u8
 
 #EXTINF:-1 tvg-id="日本テレビ_jp" tvg-name="NTV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/ntv.png",NTV
 https://naori-test.netgenx.site/pxx.php?shk_cid=gd03#.m3u8
@@ -32,31 +32,6 @@ https://akariko-bck1.sankuria.sbs/stream/jp/tokyo_mx1/stream-output.m3u8?mode=hl
 #EXTINF:-1 tvg-id="TOKYO・MX2_jp" tvg-name="TOKYO MX2" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tokyo_mx2.png",TOKYO MX2 (HD 720p)
 https://akariko-bck1.sankuria.sbs/stream/jp/tokyo_mx2/stream-output.m3u8?mode=hls
 
-# === Kansai Terrestrial ===
-
-#EXTINF:-1 tvg-id="NHK大阪・総合_jp" tvg-name="NHK G Osaka" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_g_osaka.png",NHK G Osaka
-https://akariko-bck1.sankuria.sbs/stream/jp/nhk_g_osaka/stream-output.m3u8?mode=hls
-
-#EXTINF:-1 tvg-id="サンテレビ_jp" tvg-name="SUN" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/sun.png",SUN
-https://akariko-bck1.sankuria.sbs/stream/jp/sun/stream-output.m3u8?mode=hls
-
-#EXTINF:-1 tvg-id="毎日テレビ_jp" tvg-name="MBS" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/mbs.png",MBS
-https://akariko-bck1.sankuria.sbs/stream/jp/mbs/stream-output.m3u8?mode=hls
-
-#EXTINF:-1 tvg-id="KBS京都_jp" tvg-name="KBS" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/kbs.png",KBS
-https://akariko-bck1.sankuria.sbs/stream/jp/kbs/stream-output.m3u8?mode=hls
-
-#EXTINF:-1 tvg-id="ABCテレビ_jp" tvg-name="ABC" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/abc.png",ABC
-https://akariko-bck1.sankuria.sbs/stream/jp/abc/stream-output.m3u8?mode=hls
-
-#EXTINF:-1 tvg-id="テレビ大阪_jp" tvg-name="TV Osaka" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tv_osaka.png",TV Osaka
-https://akariko-bck1.sankuria.sbs/stream/jp/tv_osaka/stream-output.m3u8?mode=hls
-
-#EXTINF:-1 tvg-id="関西テレビ_jp" tvg-name="Kansai TV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/kansai_tv.png",Kansai TV
-https://akariko-bck1.sankuria.sbs/stream/jp/kansai_tv/stream-output.m3u8?mode=hls
-
-#EXTINF:-1 tvg-id="読売テレビ_jp" tvg-name="ytv" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/ytv.png",ytv
-https://akariko-bck1.sankuria.sbs/stream/jp/ytv/stream-output.m3u8?mode=hls
 
 # === News ===
 
