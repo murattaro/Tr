@@ -1,16 +1,20 @@
 #EXTM3U
 
+
 #EXTINF:-1,NHKG
 https://nhk4.mov3.co/hls/nhk.m3u8
 
 #EXTINF:-1,NHKG-Backup
 https://naori-test.netgenx.site/pxx.php?shk_cid=gd01#.m3u8
 
-#EXTINF:-1,NHKG
+#EXTINF:-1 tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_g.png",NHKG
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01&isp=5
 
 #EXTINF:-1,NHKE
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02&isp=5
+
+#EXTINF:-1 tvg-id="NHK東京・総合_jp" tvg-name="NHK G" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_g.png",NHK G
+http://tsb-mega.i9.ee/stream/nhkg_avc_1080p
 
 #EXTINF:-1,TBS
 https://naori-test.netgenx.site/pxx.php?shk_cid=gd04#.m3u8
