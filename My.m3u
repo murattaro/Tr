@@ -304,37 +304,6 @@ https://livetv.fastv.jp/channel_assembly/696082290000105F1525/master.m3u8
 #EXTINF:-1 tvg-id="fastch_v2_asdrm" tvg-name="エンタメ・アジア (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_asdrm.png",エンタメ・アジア (FAST)
 https://livetv.fastv.jp/channel_assembly/696078CF64B81069221E/master.m3u8
 
-# === Anime & Kids ===
-
-#EXTINF:-1 tvg-id="CH.670" tvg-name="Animax" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/animax.png",Animax
-https://akariko-bck1.sankuria.sbs/stream/jp/animax/stream-output.m3u8?mode=hls
-
-#EXTINF:-1 tvg-id="CH.620" tvg-name="Disney Channel" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/disney_channel.png",Disney Channel
-https://akariko-bck1.sankuria.sbs/stream/jp/disney_channel/stream-output.m3u8?mode=hls
-
-#EXTINF:-1 tvg-id="CH.669" tvg-name="Kids Staton" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/kids_staton.png",Kids Staton
-http://58.82.168.138:5002/cs07.m3u8?token=guoziyun&gid=cs07&channel=zhongying
-
-#EXTINF:-1 tvg-id="CH.668" tvg-name="Cartoon Network" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/cartoon_network.png",Cartoon Network
-https://akariko-bck1.sankuria.sbs/stream/jp/cartoon_network/stream-output.m3u8?mode=hls
-
-#EXTINF:-1 tvg-id="CH.667" tvg-name="AT-X" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/at_x.png",AT-X
-https://akariko-bck1.sankuria.sbs/stream/jp/at-x/stream-output.m3u8?mode=hls
-
-#EXTINF:-1 tvg-id="CH.672" tvg-name="Disney Junior" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/disney_junior.png",Disney Junior
-https://akariko-bck1.sankuria.sbs/stream/jp/disney_junior/stream-output.m3u8?mode=hls
-
-#EXTINF:-1 tvg-id="rch_73" tvg-name="手塚プロダクションTV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_73.png",手塚プロダクションTV
-https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-anime5-cmaf-rakutenjp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="rch_61" tvg-name="しまじろうチャンネル" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_61.png",しまじろうチャンネル
-https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-rchannelbenessehlscmaf-rakutenjp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="rch_65" tvg-name="キッズ" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_65.png",キッズ
-https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-kids-english-cmaf-rakutenjp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="fastch_v2_kids" tvg-name="アニマックス FREE (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_kids.png",アニマックス FREE (FAST)
-https://livetv.fastv.jp/channel_assembly/69608FB2725E0FA3B972/master.m3u8
 
 # === Music ===
 
@@ -456,61 +425,13 @@ https://livetv.fastv.jp/channel_assembly/69998DB5725E30535DA6/master.m3u8
 #EXTINF:-1 tvg-id="rch_37" tvg-name="エンタメ～テレDEEP" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_37.png",エンタメ～テレDEEP
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-nagoyanextcmaf-rakutenjp/playlist.m3u8
 
-# === Korean & Asian ===
 
-#EXTINF:-1 tvg-id="CH.658" tvg-name="Mnet" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/mnet.png",Mnet
-https://akariko-bck1.sankuria.sbs/stream/jp/mnet/stream-output.m3u8?mode=hls
-
-#EXTINF:-1 tvg-id="CH.656" tvg-name="KBS World" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/kbs_world.png",KBS World
-https://akariko-bck1.sankuria.sbs/stream/jp/kbs_world/stream-output.m3u8?mode=hls
-
-#EXTINF:-1 tvg-id="CH.657" tvg-name="KNTV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/kntv.png",KNTV
-https://akariko-bck1.sankuria.sbs/stream/jp/kntv/stream-output.m3u8?mode=hls
-
-#EXTINF:-1 tvg-id="rch_94" tvg-name="NEW KPOP" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/new_kpop.png",NEW KPOP
-https://ads.its-newid.net/api/manifest.m3u8?tp=r_channel&channel_name=newkpop&channel_id=newid_165
-
-#EXTINF:-1 tvg-id="fastch_v2_krdrm" tvg-name="韓流チャンネル (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_krdrm.png",韓流チャンネル (FAST)
-https://livetv.fastv.jp/channel_assembly/6960905473F5101B6A17/master.m3u8
-
-# === Shopping ===
-
-#EXTINF:-1 tvg-id="ショップチャンネル_jp" tvg-name="ショップチャンネル" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/ch_a4d3ba28.png",ショップチャンネル
-https://stream3.shopch.jp/HLS/master.m3u8
-
-#EXTINF:-1 tvg-id="rch_102" tvg-name="QVC" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/qvc.png",QVC
-https://d1flvb4iqlercm.cloudfront.net/r-channel/live.m3u8
-
-#EXTINF:-1 tvg-id="CH.525" tvg-name="QVC" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/qvc.png",QVC (CS)
-https://d1flvb4iqlercm.cloudfront.net/live/live_1080p_2nd.m3u8
-
-#EXTINF:-1 tvg-id="rch_112" tvg-name="GSTV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/gstv.png",GSTV
-https://rch01e-alive-hls.akamaized.net/15bcd044c531aa99/out/v1/339db39dc83c421f94a8cebb777e4d02/index.m3u8
-
-#EXTINF:-1 tvg-id="CH.527" tvg-name="GSTV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/gstv.png",GSTV (CS)
-https://japaneast.av.mk.io/mediakindcdn-mediakind/ca01a143-f823-4432-b670-c22ff9643ce4/index.qfm/manifest(format=m3u8-cmaf)
 
 # === Weather ===
 
 #EXTINF:-1 tvg-id="rch_45" tvg-name="Weather News" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/weather_news.png",Weather News
 https://akariko-bck1.sankuria.sbs/stream/jp/weather_news/stream-output.m3u8?mode=hls
 
-# === Adult ===
-
-#EXTINF:-1 tvg-id="CH.635" tvg-name="V Paradise" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/v_paradise.png",V Paradise
-https://akariko-bck1.sankuria.sbs/stream/jp/v_paradise_nsfw/stream-output.m3u8?mode=hls
-
-#EXTINF:-1 tvg-id="rch_41" tvg-name="Pigoo" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/pigoo.png",Pigoo
-https://akariko-bck1.sankuria.sbs/stream/jp/pigoo_nsfw/stream-output.m3u8?mode=hls
-
-#EXTINF:-1 tvg-id="rch_98" tvg-name="セクシーエンタメチャンネル" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_98.png",セクシーエンタメチャンネル
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-rvariety-cmaf-rakutenjp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="rch_40" tvg-name="刺激ストロング" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_40.png",刺激ストロング
-https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-shigekicmaf-rakutenjp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="rch_42" tvg-name="映画（年齢制限あり）" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_42.png",映画（年齢制限あり）
-https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-movie2cmaf-rakutenjp/playlist.m3u8
 #EXTINF:-1,NHKG
 https://nhk4.mov3.co/hls/nhk.m3u8
 
