@@ -452,6 +452,8 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=cs29#.m3u8
 #EXTINF:-1,TheCinema
 http://haru.charandom.blog/stream/jp/the_cinema/stream-output.m3u8?mode=hls
 
+#EXTINF:-1 group-title="CS" tvg-id="neco" tvg-name="The Cinema" tvg-logo="http://cohzi1516.s322.xrea.com/logo/CS/CS-227.png", CS-227 ザ・シネマ http://haru.charandom.blog/stream/jp/the_cinema/stream-output.m3u8?mode=hls
+
 #EXTINF:-1,Bloomberg
 https://bloomberg.com/media-manifest/streams/us.m3u8
 
