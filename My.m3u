@@ -149,55 +149,7 @@ https://akariko-bck1.sankuria.sbs/stream/jp/bs_10_premium/stream-output.m3u8?mod
 #EXTINF:-1 tvg-id="CH.630" tvg-name="WOWOW Plus" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/wowow_plus.png",WOWOW Plus
 https://akariko-bck1.sankuria.sbs/stream/jp/wowow_plus/stream-output.m3u8?mode=hls
 
-# === Sports ===
 
-#EXTINF:-1 tvg-id="CH.688" tvg-name="Green Channel" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/green_channel.png",Green Channel
-https://akariko-bck1.sankuria.sbs/stream/jp/green_channel/stream-output.m3u8?mode=hls
-
-#EXTINF:-1 tvg-id="CH.603" tvg-name="JSport 1" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/jsport_1.png",JSport 1
-https://akariko-bck1.sankuria.sbs/stream/jp/jsport_1/stream-output.m3u8?mode=hls
-
-#EXTINF:-1 tvg-id="CH.604" tvg-name="JSport 2" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/jsport_2.png",JSport 2
-https://akariko-bck1.sankuria.sbs/stream/jp/jsport_2/stream-output.m3u8?mode=hls
-
-#EXTINF:-1 tvg-id="CH.606" tvg-name="JSport 3" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/jsport_3.png",JSport 3
-https://akariko-bck1.sankuria.sbs/stream/jp/jsport_3/stream-output.m3u8?mode=hls
-
-#EXTINF:-1 tvg-id="CH.605" tvg-name="JSport 4" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/jsport_4.png",JSport 4
-https://akariko-bck1.sankuria.sbs/stream/jp/jsport_4/stream-output.m3u8?mode=hls
-
-#EXTINF:-1 tvg-id="rch_49" tvg-name="Sky A" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/sky_a.png",Sky A
-https://akariko-bck1.sankuria.sbs/stream/jp/sky_a/stream-output.m3u8?mode=hls
-
-#EXTINF:-1 tvg-id="rch_51" tvg-name="Gaora Sports" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/gaora_sports.png",Gaora Sports
-https://akariko-bck1.sankuria.sbs/stream/jp/gaora_sports/stream-output.m3u8?mode=hls
-
-#EXTINF:-1 tvg-id="CH.608" tvg-name="Nittele G+" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nittele_g.png",Nittele G+
-https://akariko-bck1.sankuria.sbs/stream/jp/nittele_g+/stream-output.m3u8?mode=hls
-
-#EXTINF:-1 tvg-id="rch_75" tvg-name="Golf Network" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/golf_network.png",Golf Network
-https://akariko-bck1.sankuria.sbs/stream/jp/golf_network/stream-output.m3u8?mode=hls
-
-#EXTINF:-1 tvg-id="CH.580" tvg-name="Sport Live Plus" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/sport_live_plus.png",Sport Live Plus
-https://akariko-bck1.sankuria.sbs/stream/jp/sport_live_plus/stream-output.m3u8?mode=hls
-
-#EXTINF:-1 tvg-id="CH.600" tvg-name="Fighting TV Samurai" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fighting_tv_samurai.png",Fighting TV Samurai
-https://akariko-bck1.sankuria.sbs/stream/jp/fighting_tv_samurai/stream-output.m3u8?mode=hls
-
-#EXTINF:-1 tvg-id="rch_89" tvg-name="TOP BARÇA" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/top_barca.png",TOP BARÇA
-https://cdn-apne1.tsv2.amagi.tv/linear/amg17560-fcbarcelona-fcbenglishcmag-rakutenjp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="rch_97" tvg-name="NTV Pro Wrestling" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/ntv_pro_wrestling.png",NTV Pro Wrestling
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-ntv-pro-wrestling-hls-rakutenjp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="rch_48" tvg-name="刺激ストロングSPORTS" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_48.png",刺激ストロングSPORTS
-https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-shigekisports-rakutenjp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="rch_64" tvg-name="FUEL TV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fuel_tv.png",FUEL TV
-https://cdn-apne1.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvjpcmaf-rakutenjp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="fastch_v2_bgolf" tvg-name="GOLF LIFE (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/golf_life.png",GOLF LIFE (FAST)
-https://livetv.fastv.jp/channel_assembly/69607D5C725E103DDF9D/master.m3u8
 
 # === Movies & Drama ===
 
@@ -449,7 +401,7 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=cs20#.m3u8
 #EXTINF:-1,GinKa
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs29#.m3u8
 
-#EXTINF:-1,TheCinema
+#EXTINF:-1 tvg-id="CH.631" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/the_cinema.png",TheCinema
 http://haru.charandom.blog/stream/jp/the_cinema/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="CS" tvg-id="neco" tvg-name="The Cinema" tvg-logo="http://cohzi1516.s322.xrea.com/logo/CS/CS-227.png", CS-227 ザ・シネマ http://haru.charandom.blog/stream/jp/the_cinema/stream-output.m3u8?mode=hls
