@@ -2,7 +2,7 @@
 
 # === Tokyo Terrestrial ===
 
-#EXTINF:-1 tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_g.png",NHKG
+#EXTINF:-1 tvg-id="NHK東京・総合_jp" tvg-name="NHK G" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_g.png",NHKG
 http://haru.charandom.blog/stream/jp/nhk_g/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-id="NHK東京・総合_jp" tvg-name="NHK G" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_g.png",NHK G
