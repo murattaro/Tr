@@ -36,16 +36,16 @@ https://haru.charandom.blog/stream/jp/fuji_tv/stream-output.m3u8?mode=hls
 # === News ===
 
 #EXTINF:-1 tvg-id="CH.571" tvg-name="NTV News24" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/ntv_news24.png",NTV News24
-https://akariko-bck1.sankuria.sbs/stream/jp/ntv_news24/stream-output.m3u8?mode=hls
+http://haru.charandom.blog/stream/jp/ntv_news24/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-id="CH.572" tvg-name="TBS News" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tbs_news.png",TBS News
-https://akariko-bck1.sankuria.sbs/stream/jp/tbs_news/stream-output.m3u8?mode=hls
+http://haru.charandom.blog/stream/jp/tbs_news/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-id="CH.565" tvg-name="BBC News" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bbc_news.png",BBC News
-https://akariko-bck1.sankuria.sbs/stream/jp/bbc_news/stream-output.m3u8?mode=hls
+http://haru.charandom.blog/stream/jp/bbc_news/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-id="CH.566" tvg-name="CNNj" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/cnnj.png",CNNj
-https://akariko-bck1.sankuria.sbs/stream/jp/cnnj/stream-output.m3u8?mode=hls
+http://haru.charandom.blog/stream/jp/cnnj/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-id="rch_47" tvg-name="日テレNEWS" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_47.png",日テレNEWS
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news1hlscmaf-rakutenjp/playlist.m3u8
