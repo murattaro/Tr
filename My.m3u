@@ -2,6 +2,9 @@
 
 # === Tokyo Terrestrial ===
 
+#EXTINF:-1 tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_g.png",NHKG
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01&isp=5
+
 #EXTINF:-1 tvg-id="NHK東京・総合_jp" tvg-name="NHK G" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_g.png",NHK G
 http://tsb-mega.i9.ee/stream/nhkg_avc_1080p
 
@@ -22,12 +25,6 @@ https://haru.charandom.blog/stream/jp/tv_tokyo/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-id="フジテレビ_jp" tvg-name="Fuji TV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fuji_tv.png",Fuji TV
 https://haru.charandom.blog/stream/jp/fuji_tv/stream-output.m3u8?mode=hls
-
-#EXTINF:-1 tvg-id="TOKYO・MX_jp" tvg-name="TOKYO MX1" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tokyo_mx1.png",TOKYO MX1
-https://akariko-bck1.sankuria.sbs/stream/jp/tokyo_mx1/stream-output.m3u8?mode=hls
-
-#EXTINF:-1 tvg-id="TOKYO・MX2_jp" tvg-name="TOKYO MX2" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tokyo_mx2.png",TOKYO MX2 (HD 720p)
-https://akariko-bck1.sankuria.sbs/stream/jp/tokyo_mx2/stream-output.m3u8?mode=hls
 
 
 # === News ===
