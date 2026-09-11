@@ -241,9 +241,6 @@ http://haru.charandom.blog/stream/jp/bs10/stream-output.m3u8?mode=hls
 #EXTINF:-1,NHKG-Backup
 https://naori-test.netgenx.site/pxx.php?shk_cid=gd01#.m3u8
 
-#EXTINF:-1 tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_g.png",NHKG
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01&isp=5
-
 #EXTINF:-1,NHKE
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02&isp=5
 
