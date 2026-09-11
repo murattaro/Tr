@@ -14,6 +14,9 @@ http://haru.charandom.blog/stream/jp/nhk_e/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-id="日本テレビ_jp" tvg-name="NTV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/ntv.png",NTV
 https://haru.charandom.blog/stream/jp/ntv/stream-output.m3u8?mode=hls
 
+#EXTINF:-1 tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_g.png",NHKG
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01&isp=5
+
 #EXTINF:-1 tvg-id="テレビ朝日_jp" tvg-name="TV Asahi" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tv_asahi.png",TV Asahi
 https://haru.charandom.blog/stream/jp/tv_asahi/stream-output.m3u8?mode=hls
 
