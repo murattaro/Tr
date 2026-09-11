@@ -135,20 +135,20 @@ https://akariko-bck1.sankuria.sbs/stream/jp/nhk_bs4k/stream-output.m3u8?mode=hls
 # === BS Premium ===
 
 #EXTINF:-1 tvg-id="CH.621" tvg-name="WOWOW Prime" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/wowow_prime.png",WOWOW Prime
-https://akariko-bck1.sankuria.sbs/stream/jp/wowow_prime/stream-output.m3u8?mode=hls
+http://haru.charandom.blog/stream/jp/wowow_prime/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-id="CH.622" tvg-name="WOWOW Live" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/wowow_live.png",WOWOW Live
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs20&isp=5
+http://haru.charandom.blog/stream/jp/wowow_live/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-id="CH.623" tvg-name="WOWOW Cinema" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/wowow_cinema.png",WOWOW Cinema
-https://akariko-bck1.sankuria.sbs/stream/jp/wowow_cinema/stream-output.m3u8?mode=hls
+http://haru.charandom.blog/stream/jp/wowow_cinema/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-id="CH.625" tvg-name="BS 10 Premium" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs_10_premium.png",BS 10 Premium
 http://haru.charandom.blog/stream/jp/bs10/stream-output.m3u8?mode=hls
 #https://akariko-bck1.sankuria.sbs/stream/jp/bs_10_premium/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-id="CH.630" tvg-name="WOWOW Plus" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/wowow_plus.png",WOWOW Plus
-https://akariko-bck1.sankuria.sbs/stream/jp/wowow_plus/stream-output.m3u8?mode=hls
+http://haru.charandom.blog/stream/jp/wowow_plus/stream-output.m3u8?mode=hls
 
 
 
