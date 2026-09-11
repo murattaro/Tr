@@ -200,19 +200,19 @@ https://akariko-bck1.sankuria.sbs/stream/jp/nittele_plus/stream-output.m3u8?mode
 https://akariko-bck1.sankuria.sbs/stream/jp/channel_ginga/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-id="CH.614" tvg-name="Fuji TV ONE" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fuji_tv_one.png",Fuji TV ONE
-https://akariko-bck1.sankuria.sbs/stream/jp/fuji_tv_one/stream-output.m3u8?mode=hls
+https://haru.charandom.blog/stream/jp/fuji_tv_one/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-id="CH.615" tvg-name="Fuji TV TWO" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fuji_tv_two.png",Fuji TV TWO
-https://akariko-bck1.sankuria.sbs/stream/jp/fuji_tv_two/stream-output.m3u8?mode=hls
+https://haru.charandom.blog/stream/jp/fuji_tv_two/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-id="CH.613" tvg-name="Fuji TV NEXT" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fuji_tv_next.png",Fuji TV NEXT
-https://akariko-bck1.sankuria.sbs/stream/jp/fuji_tv_next/stream-output.m3u8?mode=hls
+https://haru.charandom.blog/stream/jp/fuji_tv_next/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-id="CH.650" tvg-name="Action Channel (AXN)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/action_channel_axn.png",Action Channel (AXN)
 https://akariko-bck1.sankuria.sbs/stream/jp/action_channel/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-id="Dlife(ディーライフ)_jp" tvg-name="Dlife" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/dlife.png",Dlife
-https://akariko-bck1.sankuria.sbs/stream/jp/dlife/stream-output.m3u8?mode=hls
+http://haru.charandom.blog/stream/jp/dlife/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-id="CH.654" tvg-name="LaLa TV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/lala_tv.png",LaLa TV
 https://akariko-bck1.sankuria.sbs/stream/jp/lala_tv/stream-output.m3u8?mode=hls
