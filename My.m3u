@@ -218,7 +218,7 @@ https://akariko-bck1.sankuria.sbs/stream/jp/dlife/stream-output.m3u8?mode=hls
 https://akariko-bck1.sankuria.sbs/stream/jp/lala_tv/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-id="CH.649" tvg-name="Mystery Channel" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/mystery_channel.png",Mystery Channel
-https://akariko-bck1.sankuria.sbs/stream/jp/mystery_channel/stream-output.m3u8?mode=hls
+http://haru.charandom.blog/stream/jp/mystery_channel/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-id="rch_34" tvg-name="ムビドラTV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_34.png",ムビドラTV
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-moviecmaf-rakutenjp/playlist.m3u8
@@ -231,9 +231,6 @@ https://livetv.fastv.jp/channel_assembly/696082290000105F1525/master.m3u8
 
 #EXTINF:-1 tvg-id="fastch_v2_asdrm" tvg-name="エンタメ・アジア (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_asdrm.png",エンタメ・アジア (FAST)
 https://livetv.fastv.jp/channel_assembly/696078CF64B81069221E/master.m3u8
-
-
-
 
 
 
