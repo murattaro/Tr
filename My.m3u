@@ -34,7 +34,7 @@ https://haru.charandom.blog/stream/jp/fuji_tv/stream-output.m3u8?mode=hls
 
 
 # === News ===
-
+#EXTGRP:News
 #EXTINF:-1 tvg-id="CH.571" tvg-name="NTV News24" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/ntv_news24.png",NTV News24
 http://haru.charandom.blog/stream/jp/ntv_news24/stream-output.m3u8?mode=hls
 
