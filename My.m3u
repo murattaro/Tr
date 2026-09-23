@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_IE1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,https://jp-epg-26f0ce.gitlab.io/k3v9qm/guide.xml.gz" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="http://195.154.221.171/epg/guideuk.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_IE1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,https://jp-epg-26f0ce.gitlab.io/k3v9qm/guide.xml.gz" tvg-shift=0 m3uautoload=1
 
 # === Tokyo Terrestrial ===
 
@@ -8,10 +8,10 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 #EXTINF:-1 tvg-id="BBC1.HD.ie" tvg-logo="https://i.imgur.com/xWglicB.png" group-title="BBC",BBC1
 http://line.cloud-ott.net:80/play/live.php?mac=00:1A:79:0D:80:56&stream=394415&extension=ts&play_token=2dtIgIsHQS
 
-#EXTINF:-1 tvg-id="bbc1.uk" tvg-logo="https://picserve.netplus.ch/channels/bbc1.png" group-title="BBC",BBC ONE
+#EXTINF:-1 tvg-id="bbc.one.uk" tvg-logo="https://picserve.netplus.ch/channels/bbc1.png" group-title="BBC",BBC ONE
 http://line.cloud-ott.net:80/play/live.php?mac=00:1A:79:0D:80:56&stream=394415&extension=ts&play_token=2dtIgIsHQS
 
-#EXTINF:-1 tvg-id="bbc1.uk" tvg-link="https://epgguide.net/epg/991cb803ee4bf3df69e285808dd100-21.xml" tvg-name="BBC ONE" tvg-logo="https://static.epgguide.net/icon/bbc1.uk.png" group-title="BBC",BBC ONE
+#EXTINF:-1 tvg-id="bbc.one.uk" tvg-link="https://epgguide.net/epg/991cb803ee4bf3df69e285808dd100-21.xml" tvg-name="BBC ONE" tvg-logo="https://static.epgguide.net/icon/bbc1.uk.png" group-title="BBC",BBC ONE
 http://line.cloud-ott.net:80/play/live.php?mac=00:1A:79:0D:80:56&stream=394415&extension=ts&play_token=2dtIgIsHQS
 
 
