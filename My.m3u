@@ -17,7 +17,7 @@ http://line.cloud-ott.net:80/play/live.php?mac=00:1A:79:0D:80:56&stream=394415&e
 #EXTINF:-1 tvg-id="bbc2.uk"  tvg-logo="https://static.epgguide.net/icon/bbc2.uk.png" group-title="BBC",BBC Two
 http://line.cloud-ott.net:80/play/live.php?mac=00:1A:79:0D:80:56&stream=394413&extension=ts&play_token=2dtIgIsHQS
 
-#EXTINF:-1 tvg-id="bbc3.uk"  tvg-logo="https://picserve.netplus.ch/channels/bbc3.png" group-title="BBC",BBC Three
+#EXTINF:-1 tvg-id="BBC.Three.HD.uk"  tvg-logo="https://picserve.netplus.ch/channels/bbc3.png" group-title="BBC",BBC Three
 http://line.cloud-ott.net:80/play/live.php?mac=00:1A:79:0D:80:56&stream=394411&extension=ts&play_token=2dtIgIsHQS
 
 #EXTINF:-1 tvg-id="bbc4.uk" tvg-logo="https://picserve.netplus.ch/channels/bbc4.png" group-title="BBC",BBC Four
