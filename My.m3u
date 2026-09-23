@@ -1,4 +1,8 @@
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,https://epgguide.net/epg/991cb803ee4bf3df69e285808dd100-21.xml,https://epgshare01.online/epgshare01/epg_ripper_IE1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,https://jp-epg-26f0ce.gitlab.io/k3v9qm/guide.xml.gz" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="https://raw.githubusercontent.com/dp247/Freeview-EPG/master/epg.xml,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,https://epgguide.net/epg/991cb803ee4bf3df69e285808dd100-21.xml,https://epgshare01.online/epgshare01/epg_ripper_IE1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,https://jp-epg-26f0ce.gitlab.io/k3v9qm/guide.xml.gz" tvg-shift=0 m3uautoload=1
+
+
+
+
 
 # === Tokyo Terrestrial ===
 
@@ -11,16 +15,16 @@ http://line.cloud-ott.net:80/play/live.php?mac=00:1A:79:0D:80:56&stream=394415&e
 #EXTINF:-1 tvg-id="BBC.One.Lon.HD.uk" tvg-logo="https://picserve.netplus.ch/channels/bbc1.png" group-title="BBC",BBC ONE
 http://line.cloud-ott.net:80/play/live.php?mac=00:1A:79:0D:80:56&stream=394415&extension=ts&play_token=2dtIgIsHQS
 
-#EXTINF:-1 tvg-id="bbc1.uk"  tvg-logo="https://static.epgguide.net/icon/bbc1.uk.png" group-title="BBC",BBC ONE
+#EXTINF:-1 tvg-id="BBCOneHD.uk"  tvg-logo="https://static.epgguide.net/icon/bbc1.uk.png" group-title="BBC",BBC ONE
 http://line.cloud-ott.net:80/play/live.php?mac=00:1A:79:0D:80:56&stream=394415&extension=ts&play_token=2dtIgIsHQS
 
-#EXTINF:-1 tvg-id="bbc2.uk"  tvg-logo="https://static.epgguide.net/icon/bbc2.uk.png" group-title="BBC",BBC Two
+#EXTINF:-1 tvg-id="BBCTwoHD.uk"  tvg-logo="https://static.epgguide.net/icon/bbc2.uk.png" group-title="BBC",BBC Two
 http://line.cloud-ott.net:80/play/live.php?mac=00:1A:79:0D:80:56&stream=394413&extension=ts&play_token=2dtIgIsHQS
 
-#EXTINF:-1 tvg-id="BBC.Three.HD.uk"  tvg-logo="https://picserve.netplus.ch/channels/bbc3.png" group-title="BBC",BBC Three
+#EXTINF:-1 tvg-id="BBCThreeHD.uk"  tvg-logo="https://picserve.netplus.ch/channels/bbc3.png" group-title="BBC",BBC Three
 http://line.cloud-ott.net:80/play/live.php?mac=00:1A:79:0D:80:56&stream=394411&extension=ts&play_token=2dtIgIsHQS
 
-#EXTINF:-1 tvg-id="bbc4.uk" tvg-logo="https://picserve.netplus.ch/channels/bbc4.png" group-title="BBC",BBC Four
+#EXTINF:-1 tvg-id="BBCFourHD.uk" tvg-logo="https://picserve.netplus.ch/channels/bbc4.png" group-title="BBC",BBC Four
 http://line.cloud-ott.net:80/play/live.php?mac=00:1A:79:0D:80:56&stream=394409&extension=ts&play_token=2dtIgIsHQS
 
 
