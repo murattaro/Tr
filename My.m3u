@@ -15,16 +15,16 @@ http://line.cloud-ott.net:80/play/live.php?mac=00:1A:79:0D:80:56&stream=394415&e
 #EXTINF:-1 tvg-id="BBC.One.Lon.HD.uk" tvg-logo="https://picserve.netplus.ch/channels/bbc1.png" group-title="BBC",BBC ONE
 http://line.cloud-ott.net:80/play/live.php?mac=00:1A:79:0D:80:56&stream=394415&extension=ts&play_token=2dtIgIsHQS
 
-#EXTINF:-1 tvg-id="BBCOneHD.uk"  tvg-logo="https://static.epgguide.net/icon/bbc1.uk.png" group-title="BBC",BBC ONE
+#EXTINF:-1 tvg-id="BBC.One.HD.uk"  tvg-logo="https://static.epgguide.net/icon/bbc1.uk.png" group-title="BBC",BBC ONE
 http://line.cloud-ott.net:80/play/live.php?mac=00:1A:79:0D:80:56&stream=394415&extension=ts&play_token=2dtIgIsHQS
 
-#EXTINF:-1 tvg-id="BBCTwoHD.uk"  tvg-logo="https://static.epgguide.net/icon/bbc2.uk.png" group-title="BBC",BBC Two
+#EXTINF:-1 tvg-id="BBC.Two.HD.uk"  tvg-logo="https://static.epgguide.net/icon/bbc2.uk.png" group-title="BBC",BBC Two
 http://line.cloud-ott.net:80/play/live.php?mac=00:1A:79:0D:80:56&stream=394413&extension=ts&play_token=2dtIgIsHQS
 
-#EXTINF:-1 tvg-id="BBCThreeHD.uk"  tvg-logo="https://picserve.netplus.ch/channels/bbc3.png" group-title="BBC",BBC Three
+#EXTINF:-1 tvg-id="BBC.Three.HD.uk"  tvg-logo="https://picserve.netplus.ch/channels/bbc3.png" group-title="BBC",BBC Three
 http://line.cloud-ott.net:80/play/live.php?mac=00:1A:79:0D:80:56&stream=394411&extension=ts&play_token=2dtIgIsHQS
 
-#EXTINF:-1 tvg-id="BBCFourHD.uk" tvg-logo="https://picserve.netplus.ch/channels/bbc4.png" group-title="BBC",BBC Four
+#EXTINF:-1 tvg-id="BBC.Four.HD.uk" tvg-logo="https://picserve.netplus.ch/channels/bbc4.png" group-title="BBC",BBC Four
 http://line.cloud-ott.net:80/play/live.php?mac=00:1A:79:0D:80:56&stream=394409&extension=ts&play_token=2dtIgIsHQS
 
 
