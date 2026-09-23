@@ -8,7 +8,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 #EXTINF:-1 tvg-id="BBC1.HD.ie" tvg-logo="https://i.imgur.com/xWglicB.png" group-title="BBC",BBC1
 http://line.cloud-ott.net:80/play/live.php?mac=00:1A:79:0D:80:56&stream=394415&extension=ts&play_token=2dtIgIsHQS
 
-#EXTINF:-1 tvg-id="bbc1.uk" tvg-logo="https://picserve.netplus.ch/channels/bbc1.png",BBC ONE
+#EXTINF:-1 tvg-id="bbc1.uk" tvg-logo="https://picserve.netplus.ch/channels/bbc1.png" group-title="BBC",BBC ONE
 http://line.cloud-ott.net:80/play/live.php?mac=00:1A:79:0D:80:56&stream=394415&extension=ts&play_token=2dtIgIsHQS
 
 #EXTINF:-1 tvg-id="NHK東京・総合_jp" tvg-name="NHK G" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_g.png",NHKG
