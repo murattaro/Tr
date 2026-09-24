@@ -121,7 +121,7 @@ http://haru.charandom.blog/stream/jp/bs_ntv/stream-output.m3u8?mode=hls
 
 
 #EXTINF:-1 tvg-id="BS朝日_jp" tvg-name="BS Asahi" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs_asahi.png",BS Asahi
-http://haru.charandom.blog/stream/jp/bs_asahi/stream-output.m3u8?mode=hls
+http://67.215.237.218:5002/bs03.m3u8?gid=hdgd01&token=guoziyun&channel=zhongying&uin=159413&ts=0&sign=&playseek=0
 
 
 #EXTINF:-1 tvg-id="BS-TBS_jp" tvg-name="BS TBS" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs_tbs.png",BS TBS
@@ -154,7 +154,7 @@ http://haru.charandom.blog/stream/jp/bs_yoshimoto/stream-output.m3u8?mode=hls
 # === BS 4K ===
 
 #EXTINF:-1 tvg-id="NHKBSP4K.jp" tvg-name="NHK BS4K" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_bs4k.png",NHK BS4K
-http://haru.charandom.blog/stream/jp/nhk_bs4k/stream-output.m3u8?mode=hls
+http://67.215.237.218:5002/bs01.m3u8?gid=hdgd01&token=guoziyun&channel=zhongying&uin=159413&ts=0&sign=&playseek=0
 
 
 # === BS Premium ===
