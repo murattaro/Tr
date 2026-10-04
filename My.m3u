@@ -243,6 +243,9 @@ http://haru.charandom.blog/stream/jp/wowow_live/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="Movies" tvg-id="CH.623" tvg-name="WOWOW Cinema" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/wowow_cinema.png",WOWOW Cinema
 http://haru.charandom.blog/stream/jp/wowow_cinema/stream-output.m3u8?mode=hls
 
+#EXTINF:-1 group-title="Movies" tvg-id="CH.623" tvg-name="WOWOW Cinema" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/wowow_cinema.png",WOWOW Cinema
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs07
+
 #EXTINF:-1 group-title="Movies" tvg-id="CH.625" tvg-name="BS 10 Premium" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs_10_premium.png",BS 10 Premium
 http://haru.charandom.blog/stream/jp/bs_10_premium/stream-output.m3u8?mode=hls
 
