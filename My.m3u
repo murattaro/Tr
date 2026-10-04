@@ -97,38 +97,68 @@ http://line.cloud-ott.net:80/play/live.php?mac=00:1A:79:0D:80:56&stream=394409&e
 #EXTINF:-1 tvg-id="NHK東京・総合_jp" tvg-name="NHK G" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_g.png",NHKG
 http://haru.charandom.blog/stream/jp/nhk_g/stream-output.m3u8?mode=hls
 
+#EXTINF:-1 tvg-id="NHK東京・総合_jp" tvg-name="NHK G" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_g.png",NHKG
+https://naori-test.netgenx.site/pxx.php?shk_cid=gd01
+
 #EXTINF:-1 tvg-id="NHK東京・総合_jp" tvg-name="NHK G" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_g.png",NHK G
 http://tsb-mega.i9.ee/stream/nhkg_avc_1080p
+
+#EXTINF:-1 tvg-id="NHK東京・総合_jp" tvg-name="NHK G" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_g.png",NHKG
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01&isp=5
 
 #EXTINF:-1 tvg-id="NHK東京・教育_jp" tvg-name="NHK E" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_e.png",NHK E
 http://haru.charandom.blog/stream/jp/nhk_e/stream-output.m3u8?mode=hls
 
+#EXTINF:-1 tvg-id="NHK東京・教育_jp" tvg-name="NHK E" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_e.png",NHK E
+https://naori-test.netgenx.site/pxx.php?shk_cid=gd02
+
+
 #EXTINF:-1 tvg-id="日本テレビ_jp" tvg-name="NTV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/ntv.png",NTV
 https://haru.charandom.blog/stream/jp/ntv/stream-output.m3u8?mode=hls
 
-#EXTINF:-1 tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_g.png",NHKG
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01&isp=5
+#EXTINF:-1 tvg-id="日本テレビ_jp" tvg-name="NTV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/ntv.png",NTV
+https://naori-test.netgenx.site/pxx.php?shk_cid=gd03
+
+
 
 #EXTINF:-1 tvg-id="テレビ朝日_jp" tvg-name="TV Asahi" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tv_asahi.png",TV Asahi
 https://haru.charandom.blog/stream/jp/tv_asahi/stream-output.m3u8?mode=hls
 
-#EXTINF:-1 tvg-id="NHK東京・総合_jp" tvg-name="NHK G" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_g.png",NHK G
-http://tsb-mega.i9.ee/stream/nhkg_avc_1080p
+#EXTINF:-1 tvg-id="テレビ朝日_jp" tvg-name="TV Asahi" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tv_asahi.png",TV Asahi
+https://naori-test.netgenx.site/pxx.php?shk_cid=gd04
+
+
 
 #EXTINF:-1 tvg-id="TBS_jp" tvg-name="TBS" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tbs.png",TBS
 https://haru.charandom.blog/stream/jp/tbs/stream-output.m3u8?mode=hls
 
+#EXTINF:-1 tvg-id="TBS_jp" tvg-name="TBS" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tbs.png",TBS
+https://naori-test.netgenx.site/pxx.php?shk_cid=gd05
+
+
 #EXTINF:-1 tvg-id="テレ東_jp" tvg-name="TV Tokyo" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tv_tokyo.png",TV Tokyo
 https://haru.charandom.blog/stream/jp/tv_tokyo/stream-output.m3u8?mode=hls
 
+#EXTINF:-1 tvg-id="テレ東_jp" tvg-name="TV Tokyo" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tv_tokyo.png",TV Tokyo
+https://naori-test.netgenx.site/pxx.php?shk_cid=gd06
+
+
 #EXTINF:-1 tvg-id="フジテレビ_jp" tvg-name="Fuji TV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fuji_tv.png",Fuji TV
 https://haru.charandom.blog/stream/jp/fuji_tv/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 tvg-id="フジテレビ_jp" tvg-name="Fuji TV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fuji_tv.png",Fuji TV
+https://naori-test.netgenx.site/pxx.php?shk_cid=gd07
+
 
 
 # === News ===
 
 #EXTINF:-1 tvg-id="CH.571" tvg-name="NTV News24" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/ntv_news24.png",NTV News24
 http://haru.charandom.blog/stream/jp/ntv_news24/stream-output.m3u8?mode=hls
+
+
+
+
 
 #EXTINF:-1 tvg-id="CH.572" tvg-name="TBS News" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tbs_news.png",TBS News
 http://haru.charandom.blog/stream/jp/tbs_news/stream-output.m3u8?mode=hls
@@ -186,6 +216,7 @@ https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
 #EXTINF:-1 tvg-id="NHK・BS_jp" tvg-name="NHK BS" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_bs.png",NHK BS
 http://haru.charandom.blog/stream/jp/nhk_bs/stream-output.m3u8?mode=hls
 
+
 #EXTINF:-1 tvg-id="NHK・BS2_jp" tvg-name="NHK BS (Sub Ch.)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_bs_sub_ch.png",NHK BS (Sub Ch.)
 http://haru.charandom.blog/stream/jp/nhk_bs_2/stream-output.m3u8?mode=hls
 
@@ -237,8 +268,15 @@ http://haru.charandom.blog/stream/jp/nhk_bs4k/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="Movies" tvg-id="CH.621" tvg-name="WOWOW Prime" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/wowow_prime.png",WOWOW Prime
 http://haru.charandom.blog/stream/jp/wowow_prime/stream-output.m3u8?mode=hls
 
+#EXTINF:-1 group-title="Movies" tvg-id="CH.621" tvg-name="WOWOW Prime" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/wowow_prime.png",WOWOW Prime
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs12
+
+
 #EXTINF:-1 group-title="Movies" tvg-id="CH.622" tvg-name="WOWOW Live" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/wowow_live.png",WOWOW Live
 http://haru.charandom.blog/stream/jp/wowow_live/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="Movies" tvg-id="CH.622" tvg-name="WOWOW Live" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/wowow_live.png",WOWOW Live
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs20
 
 #EXTINF:-1 group-title="Movies" tvg-id="CH.623" tvg-name="WOWOW Cinema" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/wowow_cinema.png",WOWOW Cinema
 http://haru.charandom.blog/stream/jp/wowow_cinema/stream-output.m3u8?mode=hls
@@ -248,10 +286,13 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=bs07
 
 #EXTINF:-1 group-title="Movies" tvg-id="CH.625" tvg-name="BS 10 Premium" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs_10_premium.png",BS 10 Premium
 http://haru.charandom.blog/stream/jp/bs_10_premium/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="Movies" tvg-id="CH.625" tvg-name="BS 10 Premium" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs_10_premium.png",BS 10 Premium
+
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs08
+
 
 #EXTINF:-1 group-title="Movies" tvg-id="CH.630" tvg-name="WOWOW Plus" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/wowow_plus.png",WOWOW Plus
 http://haru.charandom.blog/stream/jp/wowow_plus/stream-output.m3u8?mode=hls
-
 
 
 # === Movies & Drama ===
@@ -259,8 +300,49 @@ http://haru.charandom.blog/stream/jp/wowow_plus/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="Movies" tvg-id="CH.629" tvg-name="Toei Channel" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/toei_channel.png",Toei Channel
 http://haru.charandom.blog/stream/jp/toei_channel/stream-output.m3u8?mode=hls
 
+#EXTINF:-1 group-title="Movies" tvg-id="CH.629" tvg-name="Toei Channel" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/toei_channel.png",Toei Channel
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs27
+
+
 #EXTINF:-1 group-title="Movies" tvg-id="CH.628" tvg-name="Eisei Gekijo" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/eisei_gekijo.png",Eisei Gekijo
 http://haru.charandom.blog/stream/jp/eisei_gekijo/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="Movies" tvg-id="CH.628" tvg-name="Eisei Gekijo" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/eisei_gekijo.png",Eisei Gekijo
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs22
+
+#EXTINF:-1 group-title="Movies" tvg-id="CH.632" tvg-name="Movie Plus" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/movie_plus.png",Movie Plus
+http://haru.charandom.blog/stream/jp/movie_plus/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="Movies" tvg-id="CH.632" tvg-name="Movie Plus" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/movie_plus.png",Movie Plus
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs20
+
+#EXTINF:-1 group-title="Movies" tvg-id="CH.634" tvg-name="Nihon Eiga Senmon" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nihon_eiga_senmon.png",Nihon Eiga Senmon
+http://haru.charandom.blog/stream/jp/nihon_eiga_senmon/stream-output.m3u8?mode=#EXTINF:-1 group-title="Movies" tvg-id="CH.634" tvg-name="Nihon Eiga Senmon" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nihon_eiga_senmon.png",Nihon Eiga Senmon
+
+#EXTINF:-1 group-title="Movies" tvg-id="CH.634" tvg-name="Nihon Eiga Senmon" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nihon_eiga_senmon.png",Nihon Eiga Senmon
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs23
+
+#EXTINF:-1 group-title="Movies" tvg-id="CH.662" tvg-name="Jidaigeki Senmon" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/jidaigeki_senmon.png",Jidaigeki Senmon
+http://haru.charandom.blog/stream/jp/jidaigeki_senmon/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="Movies" tvg-id="CH.662" tvg-name="Jidaigeki Senmon" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/jidaigeki_senmon.png",Jidaigeki Senmon
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs04
+
+#EXTINF:-1 group-title="Movies" tvg-id="CH.660" tvg-name="Family Gekijyo" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/family_gekijyo.png",Family Gekijyo
+http://haru.charandom.blog/stream/jp/family_gekijyo/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="Movies" tvg-id="CH.660" tvg-name="Family Gekijyo" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/family_gekijyo.png",Family Gekijyo
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs20
+
+
+#EXTINF:-1 group-title="Movies" tvg-id="CH.661" tvg-name="Home Drama Channel" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/home_drama_channel.png",Home Drama Channel
+http://haru.charandom.blog/stream/jp/home_drama_channel/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="Movies" tvg-id="CH.661" tvg-name="Home Drama Channel" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/home_drama_channel.png",Home Drama Channel
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs05
+
+
+
 
 #EXTINF:-1 group-title="Movies" tvg-id="rch_59" tvg-name="Neco Channel" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/neco_channel.png",Neco Channel
 http://haru.charandom.blog/stream/jp/neco_ch/stream-output.m3u8?mode=hls
@@ -268,20 +350,9 @@ http://haru.charandom.blog/stream/jp/neco_ch/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="Movies" tvg-id="CH.631" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/the_cinema.png",TheCinema
 http://haru.charandom.blog/stream/jp/the_cinema/stream-output.m3u8?mode=hls
 
-#EXTINF:-1 group-title="Movies" tvg-id="CH.632" tvg-name="Movie Plus" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/movie_plus.png",Movie Plus
-http://haru.charandom.blog/stream/jp/movie_plus/stream-output.m3u8?mode=hls
 
-#EXTINF:-1 group-title="Movies" tvg-id="CH.634" tvg-name="Nihon Eiga Senmon" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nihon_eiga_senmon.png",Nihon Eiga Senmon
-http://haru.charandom.blog/stream/jp/nihon_eiga_senmon/stream-output.m3u8?mode=hls
 
-#EXTINF:-1 group-title="Movies" tvg-id="CH.662" tvg-name="Jidaigeki Senmon" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/jidaigeki_senmon.png",Jidaigeki Senmon
-http://haru.charandom.blog/stream/jp/jidaigeki_senmon/stream-output.m3u8?mode=hls
 
-#EXTINF:-1 group-title="Movies" tvg-id="CH.660" tvg-name="Family Gekijyo" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/family_gekijyo.png",Family Gekijyo
-http://haru.charandom.blog/stream/jp/family_gekijyo/stream-output.m3u8?mode=hls
-
-#EXTINF:-1 group-title="Movies" tvg-id="CH.661" tvg-name="Home Drama Channel" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/home_drama_channel.png",Home Drama Channel
-http://haru.charandom.blog/stream/jp/home_drama_channel/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-id="CH.616" tvg-name="TBS Channel 1" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tbs_channel_1.png",TBS Channel 1
 https://akariko-bck1.sankuria.sbs/stream/jp/tbs_channel_1/stream-output.m3u8?mode=hls
