@@ -303,7 +303,6 @@ http://haru.charandom.blog/stream/jp/toei_channel/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="Movies" tvg-id="CH.629" tvg-name="Toei Channel" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/toei_channel.png",Toei Channel
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs27
 
-
 #EXTINF:-1 group-title="Movies" tvg-id="CH.628" tvg-name="Eisei Gekijo" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/eisei_gekijo.png",Eisei Gekijo
 http://haru.charandom.blog/stream/jp/eisei_gekijo/stream-output.m3u8?mode=hls
 
@@ -314,7 +313,7 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=cs22
 http://haru.charandom.blog/stream/jp/movie_plus/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="Movies" tvg-id="CH.632" tvg-name="Movie Plus" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/movie_plus.png",Movie Plus
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs20
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs14
 
 #EXTINF:-1 group-title="Movies" tvg-id="CH.634" tvg-name="Nihon Eiga Senmon" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nihon_eiga_senmon.png",Nihon Eiga Senmon
 http://haru.charandom.blog/stream/jp/nihon_eiga_senmon/stream-output.m3u8?mode=#EXTINF:-1 group-title="Movies" tvg-id="CH.634" tvg-name="Nihon Eiga Senmon" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nihon_eiga_senmon.png",Nihon Eiga Senmon
