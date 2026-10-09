@@ -156,7 +156,8 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=gd05
 
 
 #EXTINF:-1 tvg-id="テレ東_jp" tvg-name="TV Tokyo" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tv_tokyo.png",TV Tokyo
-http://203.156.125.135:5002/hdgd04.m3u8?token=guoziyun&amp;gid=hdgd06&amp;channel=zhongying&amp;uin=213241&amp;ts=1745789747&amp;sign=71586aae3a1a8dbb37b4d453a7063ad5dcefcca28c16fe0d001fa1a5f2ae0cf5
+http://203.156.125.135:5002/hdgd07.m3u8?token=guoziyun&amp;gid=hdgd06&amp;channel=zhongying&amp;uin=213241&amp;ts=1745789747&amp;sign=71586aae3a1a8dbb37b4d453a7063ad5dcefcca28c16fe0d001fa1a5f2ae0cf5
+
 
 #EXTINF:-1 tvg-id="テレ東_jp" tvg-name="TV Tokyo" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tv_tokyo.png",TV Tokyo
 https://haru.charandom.blog/stream/jp/tv_tokyo/stream-output.m3u8?mode=hls
@@ -166,7 +167,8 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=gd06
 
 
 #EXTINF:-1 tvg-id="フジテレビ_jp" tvg-name="Fuji TV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fuji_tv.png",Fuji TV
-http://203.156.125.135:5002/hdgd07.m3u8?token=guoziyun&amp;gid=hdgd06&amp;channel=zhongying&amp;uin=213241&amp;ts=1745789747&amp;sign=71586aae3a1a8dbb37b4d453a7063ad5dcefcca28c16fe0d001fa1a5f2ae0cf5
+http://203.156.125.135:5002/hdgd04.m3u8?token=guoziyun&amp;gid=hdgd06&amp;channel=zhongying&amp;uin=213241&amp;ts=1745789747&amp;sign=71586aae3a1a8dbb37b4d453a7063ad5dcefcca28c16fe0d001fa1a5f2ae0cf5
+
 
 #EXTINF:-1 tvg-id="フジテレビ_jp" tvg-name="Fuji TV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fuji_tv.png",Fuji TV
 https://haru.charandom.blog/stream/jp/fuji_tv/stream-output.m3u8?mode=hls
