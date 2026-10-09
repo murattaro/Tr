@@ -94,7 +94,7 @@ http://line.cloud-ott.net:80/play/live.php?mac=00:1A:79:0D:80:56&stream=394409&e
 
 
 #EXTINF:-1 tvg-id="NHK東京・総合_jp" tvg-name="NHK G" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_g.png",NHKG
-http://203.156.125.135:5002/hdgd01.m3u8?token=guoziyun&amp;gid=hdgd06&amp;channel=zhongying&amp;uin=213241&amp;ts=1745789747&amp;sign=71586aae3a1a8dbb37b4d453a7063ad5dcefcca28c16fe0d001fa1a5f2ae0cf5
+http://203.156.125.135:5002/hdgd01.m3u8?token=guoziyun&amp;gid=hdgd01&amp;channel=zhongying&amp;uin=213241&amp;ts=1745789747&amp;sign=71586aae3a1a8dbb37b4d453a7063ad5dcefcca28c16fe0d001fa1a5f2ae0cf5
 
 #EXTINF:-1 tvg-id="NHK東京・総合_jp" tvg-name="NHK G" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_g.png",NHKG
 http://haru.charandom.blog/stream/jp/nhk_g/stream-output.m3u8?mode=hls
@@ -110,7 +110,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01&isp=5
 
 
 #EXTINF:-1 tvg-id="NHK東京・教育_jp" tvg-name="NHK E" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_e.png",NHK E
-http://203.156.125.135:5002/hdgd02.m3u8?token=guoziyun&amp;gid=hdgd06&amp;channel=zhongying&amp;uin=213241&amp;ts=1745789747&amp;sign=71586aae3a1a8dbb37b4d453a7063ad5dcefcca28c16fe0d001fa1a5f2ae0cf5
+http://203.156.125.135:5002/hdgd02.m3u8?token=guoziyun&amp;gid=hdgd02&amp;channel=zhongying&amp;uin=213241&amp;ts=1745789747&amp;sign=71586aae3a1a8dbb37b4d453a7063ad5dcefcca28c16fe0d001fa1a5f2ae0cf5
 
 
 #EXTINF:-1 tvg-id="NHK東京・教育_jp" tvg-name="NHK E" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_e.png",NHK E
@@ -121,7 +121,7 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=gd02
 
 
 #EXTINF:-1 tvg-id="日本テレビ_jp" tvg-name="NTV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/ntv.png",NTV
-http://203.156.125.135:5002/hdgd03.m3u8?token=guoziyun&amp;gid=hdgd06&amp;channel=zhongying&amp;uin=213241&amp;ts=1745789747&amp;sign=71586aae3a1a8dbb37b4d453a7063ad5dcefcca28c16fe0d001fa1a5f2ae0cf5
+http://203.156.125.135:5002/hdgd03.m3u8?token=guoziyun&amp;gid=hdgd03&amp;channel=zhongying&amp;uin=213241&amp;ts=1745789747&amp;sign=71586aae3a1a8dbb37b4d453a7063ad5dcefcca28c16fe0d001fa1a5f2ae0cf5
 
 
 #EXTINF:-1 tvg-id="日本テレビ_jp" tvg-name="NTV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/ntv.png",NTV
@@ -148,7 +148,7 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=gd04
 #EXTINF:-1 tvg-id="TBS_jp" tvg-name="TBS" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tbs.png",TBS
 
 
-http://203.156.125.135:5002/hdgd04.m3u8?token=guoziyun&amp;gid=hdgd06&amp;channel=zhongying&amp;uin=213241&amp;ts=1745789747&amp;sign=71586aae3a1a8dbb37b4d453a7063ad5dcefcca28c16fe0d001fa1a5f2ae0cf5
+http://203.156.125.135:5002/hdgd04.m3u8?token=guoziyun&amp;gid=hdgd04&amp;channel=zhongying&amp;uin=213241&amp;ts=1745789747&amp;sign=71586aae3a1a8dbb37b4d453a7063ad5dcefcca28c16fe0d001fa1a5f2ae0cf5
 
 
 #EXTINF:-1 tvg-id="TBS_jp" tvg-name="TBS" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tbs.png",TBS
@@ -159,7 +159,7 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=gd05
 
 
 #EXTINF:-1 tvg-id="テレ東_jp" tvg-name="TV Tokyo" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tv_tokyo.png",TV Tokyo
-http://203.156.125.135:5002/hdgd07.m3u8?token=guoziyun&amp;gid=hdgd06&amp;channel=zhongying&amp;uin=213241&amp;ts=1745789747&amp;sign=71586aae3a1a8dbb37b4d453a7063ad5dcefcca28c16fe0d001fa1a5f2ae0cf5
+http://203.156.125.135:5002/hdgd07.m3u8?token=guoziyun&amp;gid=hdgd07&amp;channel=zhongying&amp;uin=213241&amp;ts=1745789747&amp;sign=71586aae3a1a8dbb37b4d453a7063ad5dcefcca28c16fe0d001fa1a5f2ae0cf5
 
 
 #EXTINF:-1 tvg-id="テレ東_jp" tvg-name="TV Tokyo" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tv_tokyo.png",TV Tokyo
@@ -170,7 +170,7 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=gd06
 
 
 #EXTINF:-1 tvg-id="フジテレビ_jp" tvg-name="Fuji TV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fuji_tv.png",Fuji TV
-http://203.156.125.135:5002/hdgd05.m3u8?token=guoziyun&amp;gid=hdgd06&amp;channel=zhongying&amp;uin=213241&amp;ts=1745789747&amp;sign=71586aae3a1a8dbb37b4d453a7063ad5dcefcca28c16fe0d001fa1a5f2ae0cf5
+http://203.156.125.135:5002/hdgd05.m3u8?token=guoziyun&amp;gid=hdgd05&amp;channel=zhongying&amp;uin=213241&amp;ts=1745789747&amp;sign=71586aae3a1a8dbb37b4d453a7063ad5dcefcca28c16fe0d001fa1a5f2ae0cf5
 
 #EXTINF:-1 tvg-id="フジテレビ_jp" tvg-name="Fuji TV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fuji_tv.png",Fuji TV
 https://haru.charandom.blog/stream/jp/fuji_tv/stream-output.m3u8?mode=hls
