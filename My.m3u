@@ -376,6 +376,9 @@ http://haru.charandom.blog/stream/jp/movie_plus/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="Movies" tvg-id="CH.632" tvg-name="Movie Plus" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/movie_plus.png",Movie Plus
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs14
 
+
+
+
 #EXTINF:-1 group-title="Movies" tvg-id="CH.634" tvg-name="Nihon Eiga Senmon" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nihon_eiga_senmon.png",Nihon Eiga Senmon
 http://67.215.237.218:5002/cs23.m3u8?token=guoziyun&gid=gx01&channel=zhongying
 
