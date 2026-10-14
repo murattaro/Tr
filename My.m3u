@@ -146,10 +146,10 @@ http://203.156.125.135:5002/hdgd06.m3u8?token=guoziyun&amp;channel=zhongying&amp
 https://haru.charandom.blog/stream/jp/tv_asahi/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-id="テレビ朝日_jp" tvg-name="TV Asahi" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tv_asahi.png",TV Asahi
-https://naori-test.netgenx.site/pxx.php?shk_cid=gd05
+https://naori-test.netgenx.site/pxx.php?shk_cid=gd06
 
 #EXTINF:-1 tvg-id="テレビ朝日_jp" tvg-name="TV Asahi" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tv_asahi.png",TV Asahi
-http://67.215.237.218:5002/gd05.m3u8?token=guoziyun&channel=zhongying
+http://67.215.237.218:5002/gd06.m3u8?token=guoziyun&channel=zhongying
 
 
 
