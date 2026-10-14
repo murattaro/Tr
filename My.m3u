@@ -124,6 +124,7 @@ http://haru.charandom.blog/stream/jp/nhk_e/stream-output.m3u8?mode=hls
 https://naori-test.netgenx.site/pxx.php?shk_cid=gd02
 
 
+
 #EXTINF:-1 tvg-id="日本テレビ_jp" tvg-name="NTV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/ntv.png",NTV
 http://203.156.125.135:5002/hdgd03.m3u8?token=guoziyun&amp;gid=hdgd03&amp;channel=zhongying&amp;uin=213241&amp;ts=1745789747&amp;sign=71586aae3a1a8dbb37b4d453a7063ad5dcefcca28c16fe0d001fa1a5f2ae0cf5
 
@@ -133,6 +134,9 @@ https://haru.charandom.blog/stream/jp/ntv/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 tvg-id="日本テレビ_jp" tvg-name="NTV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/ntv.png",NTV
 https://naori-test.netgenx.site/pxx.php?shk_cid=gd03
+
+#EXTINF:-1 tvg-id="日本テレビ_jp" tvg-name="NTV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/ntv.png",NTV
+http://67.215.237.218:5002/gd03.m3u8?token=guoziyun&channel=zhongying
 
 
 
@@ -148,10 +152,10 @@ https://haru.charandom.blog/stream/jp/tv_asahi/stream-output.m3u8?mode=hls
 #EXTINF:-1 tvg-id="テレビ朝日_jp" tvg-name="TV Asahi" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tv_asahi.png",TV Asahi
 https://naori-test.netgenx.site/pxx.php?shk_cid=gd05
 
+http://67.215.237.218:5002/gd05.m3u8?token=guoziyun&channel=zhongying
+
 
 #EXTINF:-1 tvg-id="TBS_jp" tvg-name="TBS" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tbs.png",TBS
-
-
 http://203.156.125.135:5002/hdgd04.m3u8?token=guoziyun&amp;gid=hdgd04&amp;channel=zhongying&amp;uin=213241&amp;ts=1745789747&amp;sign=71586aae3a1a8dbb37b4d453a7063ad5dcefcca28c16fe0d001fa1a5f2ae0cf5
 
 
