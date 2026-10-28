@@ -1,6 +1,10 @@
 #EXTM3U url-tvg="https://skinred78.github.io/jp-iptv-epg/jp-epg-merged.xml,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,https://jp-epg-26f0ce.gitlab.io/k3v9qm/guide.xml.gz" tvg-shift=0 m3uautoload=1
 
+#EXTINF:-1 language="English" audio-track="eng" tvg-name="HBO HD Eng",HBOHD 
+http://15.204.246.24:8080/HBOHD/index.m3u8
 
+#EXTINF:-1 language="English" audio-track="eng" tvg-name="HBO HD Eng",HBOPlusHD
+http://15.204.246.24:8080/HBOPlusHD/index.m3u8
 
 #EXTINF:-1 group-title="CCTV",CCTV1
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv1
