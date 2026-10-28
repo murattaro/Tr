@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://github.io,https://skinred78.github.io/jp-iptv-epg/jp-epg-merged.xml,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,https://jp-epg-26f0ce.gitlab.io/k3v9qm/guide.xml.gz" tvg-shift=0 m3uautoload=1
 
-#EXTINF:-1 tvg-id="SonyMovies.la" tvg-name="Sony Movies LatAm" tvg-logo="https://githubusercontent.com" language="Spanish" audio-track="spa" ,Sony Movies HD (Spanish Audio)
+#EXTINF:-1 tvg-id="SonyMovies.la" tvg-name="Sony Movies LatAm" tvg-logo="https://githubusercontent.com" language="English" audio-track="eng" ,Sony Movies HD (Spanish Audio)
 
 http://15.204.246.24:8080/SonyMoviesHD/index.m3u8
 
